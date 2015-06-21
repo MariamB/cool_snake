@@ -1,0 +1,8 @@
+#ifndef HCONSOLE_H_INCLUDED
+#define HCONSOLE_H_INCLUDED
+
+HANDLE hStdOut = GetStdHandle(STD_OUTPUT_HANDLE);
+
+HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+
+#endif // HCONSOLE_H_INCLUDED

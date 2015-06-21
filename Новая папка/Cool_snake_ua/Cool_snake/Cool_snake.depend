@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1434884122 source:c:\users\frehauf\desktop\cool_snake\main.cpp
+	"Snake.h"
+	"Game.h"
+	"Function.h"
+
+1434881181 c:\users\frehauf\desktop\cool_snake\snake.h
+	<windows.h>
+
+1434885945 c:\users\frehauf\desktop\cool_snake\game.h
+
+1434884122 source:c:\users\frehauf\desktop\cool_snake - копия\main.cpp
+	"Snake.h"
+	"Game.h"
+	"Function.h"
+
+1434881181 c:\users\frehauf\desktop\cool_snake - копия\snake.h
+	<windows.h>
+
+1434881554 c:\users\frehauf\desktop\cool_snake - копия\game.h
+
+1434884071 c:\users\frehauf\desktop\cool_snake - копия\function.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	"Snake.h"
+	"Game.h"
+
+1434886003 c:\users\frehauf\desktop\cool_snake\function.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	"Snake.h"
+	"Game.h"
+
+1434888055 source:c:\users\frehauf\desktop\cool_snake\function.cpp
+	"Function.h"
+	"hConsole.h"
+
+1434885945 c:\users\frehauf\desktop\cool_snake\hconsole.h
+
+1434884071 source:c:\users\frehauf\desktop\cool_snake - копия\function.cpp
+	"Function.h"
+	"hConsole.h"
+
+1434881159 c:\users\frehauf\desktop\cool_snake - копия\hconsole.h
+
+1434889475 source:c:\users\Сasper\desktop 2\cool_snake\function.cpp
+	"Function.h"
+	"hConsole.h"
+
+1434886003 c:\users\Сasper\desktop 2\cool_snake\function.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	"Snake.h"
+	"Game.h"
+
+1434881181 c:\users\Сasper\desktop 2\cool_snake\snake.h
+	<windows.h>
+
+1434885945 c:\users\Сasper\desktop 2\cool_snake\game.h
+
+1434885945 c:\users\Сasper\desktop 2\cool_snake\hconsole.h
+
+1434889359 source:c:\users\Сasper\desktop 2\cool_snake\main.cpp
+	"Snake.h"
+	"Game.h"
+	"Function.h"
+
+1434890180 source:c:\users\mariam\desktop\cool_snake_ua\cool_snake\function.cpp
+	"Function.h"
+	"hConsole.h"
+
+1434886003 c:\users\mariam\desktop\cool_snake_ua\cool_snake\function.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	"Snake.h"
+	"Game.h"
+
+1434881181 c:\users\mariam\desktop\cool_snake_ua\cool_snake\snake.h
+	<windows.h>
+
+1434885945 c:\users\mariam\desktop\cool_snake_ua\cool_snake\game.h
+
+1434885945 c:\users\mariam\desktop\cool_snake_ua\cool_snake\hconsole.h
+
+1434889359 source:c:\users\mariam\desktop\cool_snake_ua\cool_snake\main.cpp
+	"Snake.h"
+	"Game.h"
+	"Function.h"
+
